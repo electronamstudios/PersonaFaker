@@ -6,4 +6,4 @@ Maybe in the future I'll have a website for this but idk tbh
 ## Requirements
  - Python 3
  - https://github.com/David-Lor/ThisPersonDoesNotExistAPI
- - `pip install sys`
+ - `pip install sys, os`
