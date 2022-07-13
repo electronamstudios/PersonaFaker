@@ -1,5 +1,5 @@
 # PersonaFaker 
-An open source tool that uses multiple sites to create a fake persona for OSINT
+An open source sock puppet tool that uses multiple sites to create a fake persona for OSINT or other activities
 
 Should you encounter any bugs, glitches, or other problems in the software/code, please create an issue immediately so I can fix them accordingly.
 
