@@ -1,7 +1,7 @@
 # PersonaMaker - 🚨 BETA VERSION 🚨
 🚨 WARNING 🚨 - The beta version of this software may be unstable and even unusable
 
-An open source sock puppet tool that uses multiple sites to create a fake persona for OSINT or other activities
+An open source sock puppet tool used to create a fake persona for OSINT or other activities
 
 Maybe in the future I'll have a website for this but idk tbh
 
