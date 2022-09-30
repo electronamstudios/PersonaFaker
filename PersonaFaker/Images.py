@@ -1,4 +1,3 @@
-# hopefully will get fakename api key or smth
 import os
 from thispersondoesnotexist import get_online_person
 from thispersondoesnotexist import save_picture
