@@ -20,6 +20,6 @@ Please note that this is a _**beta**_ version of the PersonaMaker platform which
 
 Myself or the PersonaMaker brand will not be liable for any loss, whether such loss is direct, indirect, special or consequential, suffered by any party as a result of their use of the PersonaMaker platform, its software or content. Any use of the software is done at the user’s own risk and the user will be solely responsible for any damage to any computer system or loss of data that results from such activities.
 
-Should you encounter any bugs, glitches, or other problems in the software/code, please create an issue immediately so I can fix them accordingly.
+Should you encounter any bugs, glitches, or other problems in the software/code, please create an issue/pr immediately so I can fix them accordingly.
 
 PersonaMaker and its subsidaries/contributors hold the right to modify this disclaimer without notice
